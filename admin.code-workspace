@@ -1,0 +1,52 @@
+{
+	"folders": [
+		{
+			"path": "admin"
+		},
+		{
+			"path": "api"
+		},
+		{
+			"path": "assets"
+		},
+		{
+			"path": "color"
+		},
+		{
+			"path": "build"
+		},
+		{
+			"path": "contactform"
+		},
+		{
+			"path": "css"
+		},
+		{
+			"path": "data"
+		},
+		{
+			"path": "destek"
+		},
+		{
+			"path": "font-awesome"
+		},
+		{
+			"path": "images"
+		},
+		{
+			"path": "js"
+		},
+		{
+			"path": "music"
+		},
+		{
+			"path": "server"
+		},
+		{
+			"path": "upload"
+		},
+		{
+			"path": "vendor"
+		}
+	]
+}
